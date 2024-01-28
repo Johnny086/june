@@ -25,6 +25,7 @@ public class BaseClass {
 	@BeforeSuite
 	public void bsConfig() {
 	 System.out.println("Change hua Hai");
+	 System.out.println("Changes Dekho");
 	}
 
 	@BeforeClass
