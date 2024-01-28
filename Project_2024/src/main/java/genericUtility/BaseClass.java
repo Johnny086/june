@@ -24,7 +24,7 @@ public class BaseClass {
 	public static WebDriver sDriver;
 	@BeforeSuite
 	public void bsConfig() {
-	 System.out.println("Data base connection Achieved");
+	 System.out.println("Change hua Hai");
 	}
 
 	@BeforeClass
